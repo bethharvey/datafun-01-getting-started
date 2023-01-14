@@ -1,9 +1,9 @@
 # datafun-01-getting-started
 
-# Beth's Saved Notes
-## After installing VS Code editor, Python extension, and GitHub Repositories extension
-## To fork a repo in GitHub, click Fork button at top, click 'Create Fork'
-## To clone a GitHub repo in VS Code:
+## Beth's Saved Notes
+After installing VS Code editor, Python extension, and GitHub Repositories extension
+To fork a repo in GitHub, click Fork button at top, click 'Create Fork'
+To clone a GitHub repo in VS Code:
 1. Open VS Code. 
 1. From the menu: select View / Command Palette.
 1. Start typing Git: Clone and select it.
@@ -15,7 +15,7 @@ For more information about options for executing a Python program in VS Code, se
 The about module provides a lot of useful information about your Python environment. 
 Review these paths carefully - it tells a lot about your Python installation and environment. 
 
-## To commit changes and push to GitHub:
+To commit changes and push to GitHub:
 
 1. On the VS Code side panel, click the source control icon (look for a blue bubble with an number in it).
 1. Important! Above the Commit button, it will say "Message". You must include a message. 

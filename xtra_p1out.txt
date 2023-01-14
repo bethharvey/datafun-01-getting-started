@@ -1,0 +1,69 @@
+/usr/bin/python3 "/Users/macbeth/Documents/Data Fundamentals/datafun-01-getting-started/xtra_p1.py"
+(base) macbeth@beths-air datafun-01-getting-started % /usr/bin/python3 "/Users/macbeth/Documents/D
+ata Fundamentals/datafun-01-getting-started/xtra_p1.py"
+
+Hello, I'm BethsBot, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Enter wolf, eagle, or snake: wolf
+
+You said wolf.
+I said eagle.
+
+Your wolf scares my eagle. You win!
+(base) macbeth@beths-air datafun-01-getting-started % /usr/bin/python3 "/Users/macbeth/Documents/D
+ata Fundamentals/datafun-01-getting-started/xtra_p1.py"
+
+Hello, I'm BethsBot, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Enter wolf, eagle, or snake: eagle
+
+You said eagle.
+I said eagle.
+
+We tied!
+(base) macbeth@beths-air datafun-01-getting-started % /usr/bin/python3 "/Users/macbeth/Documents/D
+ata Fundamentals/datafun-01-getting-started/xtra_p1.py"
+
+Hello, I'm BethsBot, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Enter wolf, eagle, or snake: snake
+
+You said snake.
+I said eagle.
+
+My eagle grabs your snake. I win!
+(base) macbeth@beths-air datafun-01-getting-started % /usr/bin/python3 "/Users/macbeth/Documents/D
+ata Fundamentals/datafun-01-getting-started/xtra_p1.py"
+
+Hello, I'm BethsBot, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Enter wolf, eagle, or snake: eagle
+
+You said eagle.
+I said wolf.
+
+My wolf scares your eagle. I win!
