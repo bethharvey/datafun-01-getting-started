@@ -8,6 +8,12 @@ temp_2 = float(input('Enter a second temperature in Celsius: '))
 temp_3 = float(input('Enter a third temperature in Celsius: '))
 print()
 
+# Check type of temperature variables
+type_1 = type(temp_1)
+type_2 = type(temp_2)
+type_3 = type(temp_3)
+print(f'The data types of the entered temperatures are {type_1}, {type_2}, and {type_3}')
+
 # Part 2
 temp_sum = round(temp_1 + temp_2 + temp_3, 2)
 print(f'The sum of the temperatures is {temp_sum}.')
