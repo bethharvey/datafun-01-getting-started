@@ -1,1 +1,17 @@
 # Paste the output from a sample run here.
+/usr/bin/python3 "/Users/macbeth/Documents/Data Fundamentals/datafun-01-getting-started/user_script.py"
+(base) macbeth@beths-air datafun-01-getting-started % /usr/bin/python3 "/Users/macbeth
+/Documents/Data Fundamentals/datafun-01-getting-started/user_script.py"
+Enter a temperature in Celsius: 21.34
+Enter a second temperature in Celsius: 18.96
+Enter a third temperature in Celsius: -12.84
+
+The sum of the temperatures is 27.46.
+The average of the temperatures is 9.15.
+The product of all three temperatures is -5195.15.
+The lowest of the three temperatures is -12.84.
+The highest of the three temperatures is 21.34.
+The the range of the three temperatures is 34.18.
+
+The water in the bird bath is frozen!
+(base) macbeth@beths-air datafun-01-getting-started % 
